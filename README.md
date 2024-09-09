@@ -1,1 +1,1 @@
-# single-page-app-module1solution
+# single-page-app-angularjs-assignment
